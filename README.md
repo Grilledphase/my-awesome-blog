@@ -1,3 +1,3 @@
 ## My Awesome Blog Page 
 
-- built by **Hogan**
+- built by **Boy Alone**
